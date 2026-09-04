@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Welcome On ChaosCraftUnited",
+    "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ChaosCraftUnited.aternos.me",
-    "port": 64553,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -30,7 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Welcome to ChaosCraft",
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
